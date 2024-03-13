@@ -5,6 +5,7 @@ import { useLocalStorage } from '../../hooks/use-localstorage.hook';
 export function JournalPage() {
 	const [items, setItems] = useLocalStorage('data');
 	const [selectedItem, setSelectedItem] = useState(null);
+   
 
 	function mapItems(items) {
 		if (!items) {
