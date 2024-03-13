@@ -1,3 +1,4 @@
+
 .journal-form {
 	display: flex;
 	flex-direction: column;
@@ -49,5 +50,5 @@
 
 
 .input-date {
-	filter: invert(100%);
+	color-scheme: dark;
 }

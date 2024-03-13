@@ -1,4 +1,4 @@
-import './JournalList.css';
+import './JournalList.module.css';
 import CardButton from '../CardButton/CardButton';
 import JournalItem from '../JournalItem/JournalItem';
 import { useContext, useMemo } from 'react';
