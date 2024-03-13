@@ -1,7 +1,13 @@
+:root {
+  --text-color: rgba(255, 255, 255, 0.60);
+  --date-color: rgba(255, 255, 255, 0.40);
+  --background-color: rgba(254, 252, 252, 0.03);
+  --journal-color: #FFF;
+}
 .journal-item {
 	border-radius: 3px;
-	background: rgba(255, 255, 255, 0.03);
-	color: #FFF;
+	background: var(--background-color);
+	color: var(--journal-color);
 	padding: 20px;
 }
 
@@ -13,7 +19,7 @@
 }
 
 .journal-item__date {
-	color: rgba(255, 255, 255, 0.40);
+	color: var(--date-color);
 	font-size: 16px;
 	font-style: normal;
 	font-weight: 400;
@@ -21,7 +27,7 @@
 }
 
 .journal-item__text {
-	color: rgba(255, 255, 255, 0.60);
+	color: var(--text-color);
 	font-size: 16px;
 	font-style: normal;
 	font-weight: 400;

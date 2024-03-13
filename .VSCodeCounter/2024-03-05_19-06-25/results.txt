@@ -1,0 +1,77 @@
+Date : 2024-03-05 19:06:25
+Directory : c:\Users\alyubomirov\Downloads\11-react-1--9\11-react-1--9\src
+Total : 32 files,  564 codes, 0 comments, 79 blanks, all 643 lines
+
+Languages
++----------------+------------+------------+------------+------------+------------+
+| language       | files      | code       | comment    | blank      | total      |
++----------------+------------+------------+------------+------------+------------+
+| JavaScript JSX |         15 |        321 |          0 |         54 |        375 |
+| CSS            |         14 |        189 |          0 |         20 |        209 |
+| JavaScript     |          2 |         53 |          0 |          5 |         58 |
+| XML            |          1 |          1 |          0 |          0 |          1 |
++----------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                            | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                               |         32 |        564 |          0 |         79 |        643 |
+| . (Files)                                                                                                       |          4 |         87 |          0 |         13 |        100 |
+| assets                                                                                                          |          1 |          1 |          0 |          0 |          1 |
+| components                                                                                                      |         21 |        422 |          0 |         54 |        476 |
+| components\Button                                                                                               |          2 |         22 |          0 |          4 |         26 |
+| components\CardButton                                                                                           |          2 |         24 |          0 |          4 |         28 |
+| components\Header                                                                                               |          2 |         15 |          0 |          6 |         21 |
+| components\Input                                                                                                |          2 |         39 |          0 |          4 |         43 |
+| components\JournalAddButton                                                                                     |          2 |         25 |          0 |          2 |         27 |
+| components\JournalForm                                                                                          |          3 |        182 |          0 |         16 |        198 |
+| components\JournalItem                                                                                          |          2 |         45 |          0 |          7 |         52 |
+| components\JournalList                                                                                          |          2 |         39 |          0 |          5 |         44 |
+| components\Logo                                                                                                 |          2 |          9 |          0 |          2 |         11 |
+| components\SelectUser                                                                                           |          2 |         22 |          0 |          4 |         26 |
+| context                                                                                                         |          1 |         11 |          0 |          4 |         15 |
+| hooks                                                                                                           |          1 |         15 |          0 |          4 |         19 |
+| layouts                                                                                                         |          4 |         28 |          0 |          4 |         32 |
+| layouts\Body                                                                                                    |          2 |         13 |          0 |          2 |         15 |
+| layouts\LeftPanel                                                                                               |          2 |         15 |          0 |          2 |         17 |
++-----------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| filename                                                                                                        | language       | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| c:\Users\alyubomirov\Downloads\11-react-1--9\11-react-1--9\src\App.css                                          | CSS            |          4 |          0 |          0 |          4 |
+| c:\Users\alyubomirov\Downloads\11-react-1--9\11-react-1--9\src\App.jsx                                          | JavaScript JSX |         59 |          0 |          7 |         66 |
+| c:\Users\alyubomirov\Downloads\11-react-1--9\11-react-1--9\src\assets\react.svg                                 | XML            |          1 |          0 |          0 |          1 |
+| c:\Users\alyubomirov\Downloads\11-react-1--9\11-react-1--9\src\components\Button\Button.css                     | CSS            |         15 |          0 |          2 |         17 |
+| c:\Users\alyubomirov\Downloads\11-react-1--9\11-react-1--9\src\components\Button\Button.jsx                     | JavaScript JSX |          7 |          0 |          2 |          9 |
+| c:\Users\alyubomirov\Downloads\11-react-1--9\11-react-1--9\src\components\CardButton\CardButton.css             | CSS            |         14 |          0 |          1 |         15 |
+| c:\Users\alyubomirov\Downloads\11-react-1--9\11-react-1--9\src\components\CardButton\CardButton.jsx             | JavaScript JSX |         10 |          0 |          3 |         13 |
+| c:\Users\alyubomirov\Downloads\11-react-1--9\11-react-1--9\src\components\Header\Header.jsx                     | JavaScript JSX |         12 |          0 |          6 |         18 |
+| c:\Users\alyubomirov\Downloads\11-react-1--9\11-react-1--9\src\components\Header\Header.module.css              | CSS            |          3 |          0 |          0 |          3 |
+| c:\Users\alyubomirov\Downloads\11-react-1--9\11-react-1--9\src\components\Input\Input.jsx                       | JavaScript JSX |         13 |          0 |          2 |         15 |
+| c:\Users\alyubomirov\Downloads\11-react-1--9\11-react-1--9\src\components\Input\Input.module.css                | CSS            |         26 |          0 |          2 |         28 |
+| c:\Users\alyubomirov\Downloads\11-react-1--9\11-react-1--9\src\components\JournalAddButton\JournalAddButton.css | CSS            |         11 |          0 |          0 |         11 |
+| c:\Users\alyubomirov\Downloads\11-react-1--9\11-react-1--9\src\components\JournalAddButton\JournalAddButton.jsx | JavaScript JSX |         14 |          0 |          2 |         16 |
+| c:\Users\alyubomirov\Downloads\11-react-1--9\11-react-1--9\src\components\JournalForm\JournalForm.jsx           | JavaScript JSX |         98 |          0 |          8 |        106 |
+| c:\Users\alyubomirov\Downloads\11-react-1--9\11-react-1--9\src\components\JournalForm\JournalForm.module.css    | CSS            |         46 |          0 |          7 |         53 |
+| c:\Users\alyubomirov\Downloads\11-react-1--9\11-react-1--9\src\components\JournalForm\JournalForm.state.js      | JavaScript     |         38 |          0 |          1 |         39 |
+| c:\Users\alyubomirov\Downloads\11-react-1--9\11-react-1--9\src\components\JournalItem\JournalItem.css           | CSS            |         31 |          0 |          4 |         35 |
+| c:\Users\alyubomirov\Downloads\11-react-1--9\11-react-1--9\src\components\JournalItem\JournalItem.jsx           | JavaScript JSX |         14 |          0 |          3 |         17 |
+| c:\Users\alyubomirov\Downloads\11-react-1--9\11-react-1--9\src\components\JournalList\JournalList.css           | CSS            |          5 |          0 |          0 |          5 |
+| c:\Users\alyubomirov\Downloads\11-react-1--9\11-react-1--9\src\components\JournalList\JournalList.jsx           | JavaScript JSX |         34 |          0 |          5 |         39 |
+| c:\Users\alyubomirov\Downloads\11-react-1--9\11-react-1--9\src\components\Logo\Logo.jsx                         | JavaScript JSX |          6 |          0 |          2 |          8 |
+| c:\Users\alyubomirov\Downloads\11-react-1--9\11-react-1--9\src\components\Logo\Logo.module.css                  | CSS            |          3 |          0 |          0 |          3 |
+| c:\Users\alyubomirov\Downloads\11-react-1--9\11-react-1--9\src\components\SelectUser\SelectUser.jsx             | JavaScript JSX |         16 |          0 |          4 |         20 |
+| c:\Users\alyubomirov\Downloads\11-react-1--9\11-react-1--9\src\components\SelectUser\SelectUser.module.css      | CSS            |          6 |          0 |          0 |          6 |
+| c:\Users\alyubomirov\Downloads\11-react-1--9\11-react-1--9\src\context\user.context.jsx                         | JavaScript JSX |         11 |          0 |          4 |         15 |
+| c:\Users\alyubomirov\Downloads\11-react-1--9\11-react-1--9\src\hooks\use-localstorage.hook.js                   | JavaScript     |         15 |          0 |          4 |         19 |
+| c:\Users\alyubomirov\Downloads\11-react-1--9\11-react-1--9\src\index.css                                        | CSS            |         15 |          0 |          4 |         19 |
+| c:\Users\alyubomirov\Downloads\11-react-1--9\11-react-1--9\src\layouts\Body\Body.css                            | CSS            |          4 |          0 |          0 |          4 |
+| c:\Users\alyubomirov\Downloads\11-react-1--9\11-react-1--9\src\layouts\Body\Body.jsx                            | JavaScript JSX |          9 |          0 |          2 |         11 |
+| c:\Users\alyubomirov\Downloads\11-react-1--9\11-react-1--9\src\layouts\LeftPanel\LeftPanel.css                  | CSS            |          6 |          0 |          0 |          6 |
+| c:\Users\alyubomirov\Downloads\11-react-1--9\11-react-1--9\src\layouts\LeftPanel\LeftPanel.jsx                  | JavaScript JSX |          9 |          0 |          2 |         11 |
+| c:\Users\alyubomirov\Downloads\11-react-1--9\11-react-1--9\src\main.jsx                                         | JavaScript JSX |          9 |          0 |          2 |         11 |
+| Total                                                                                                           |                |        564 |          0 |         79 |        643 |
++-----------------------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
